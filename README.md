@@ -95,6 +95,7 @@ grid on;
 
 
 ## OUTPUT:
+<img width="1917" height="1021" alt="Screenshot 2026-03-30 121931" src="https://github.com/user-attachments/assets/de942095-d6ec-451b-99aa-6cb097550664" />
 
 ## RESULT:
 
